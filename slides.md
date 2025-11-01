@@ -31,7 +31,7 @@ duration: 20min
 
 ---
 layout: image-right 
-image: ./images/me.jpg
+image: /images/me.jpg
 ---
 
 # /me
@@ -57,13 +57,13 @@ layout: two-cols-header
 ::left::
 
 [
-  ![Spotify toot](./images/spotify-toot.jpg)
+  ![Spotify toot](/images/spotify-toot.jpg)
 ](https://mamot.fr/@jmaupetit/113899073423698676)
 
 ::right::
 
 [
-    ![Spotify shame](./images/spotify-shame.jpg)
+    ![Spotify shame](/images/spotify-shame.jpg)
 ](https://www.lesinrocks.com/musique/investiture-de-donald-trump-spotify-a-fait-don-de-150-000-dollars-pour-la-ceremonie-649529-23-01-2025/)
 
 <style>
@@ -81,17 +81,17 @@ layout: two-cols-header
 ::left::
 
 [
-  ![Deezer toot 1](./images/deezer-toot-01.jpg)
+  ![Deezer toot 1](/images/deezer-toot-01.jpg)
 ](https://mamot.fr/@jmaupetit/113944690650791722)
 
 [
-  ![Deezer toot 2](./images/deezer-toot-02.jpg)
+  ![Deezer toot 2](/images/deezer-toot-02.jpg)
 ](https://mamot.fr/@jmaupetit/113944702684503435)
 
 ::right::
 
 [
-  ![Deezer toot 3](./images/deezer-toot-03.jpg)
+  ![Deezer toot 3](/images/deezer-toot-03.jpg)
 ](https://mamot.fr/@jmaupetit/113944739914392009)
 
 <style>
@@ -102,7 +102,7 @@ layout: two-cols-header
 
 ---
 layout: image-right
-image: ./images/the-office-sad.gif
+image: /images/the-office-sad.gif
 ---
 
 # Deezer + GNU/Linux
@@ -110,13 +110,13 @@ image: ./images/the-office-sad.gif
 - No official desktop client
 - Only the web player that… mostly work. Most of the time.
 
-![Deezer error](./images/deezer-error.jpg)
+![Deezer error](/images/deezer-error.jpg)
 
 - By the end of the day, the player tab often uses more than 2Gb of RAM.
 
 ---
 layout: image-right
-image: ./images/the-office-plan.gif
+image: /images/the-office-plan.gif
 ---
 
 # What if…
@@ -175,7 +175,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./images/the-office-music.gif
+image: /images/the-office-music.gif
 ---
 
 # Play sound 
@@ -193,7 +193,7 @@ I was stuck, until I found…
 
 ---
 layout: image-right 
-image: ./images/the-office-wow.gif
+image: /images/the-office-wow.gif
 ---
 
 # VLC bindings for python
