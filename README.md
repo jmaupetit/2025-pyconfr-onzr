@@ -1,11 +1,21 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Onzr : l'histoire du CLI Deezer un peu en retard
 
-To start the slide show:
+Slides from py presentation at [PyConFR 2025](https://www.pycon.fr/2025/fr/)
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+## Getting started
 
-Edit the [slides.md](./slides.md) to see the changes.
+Clone the repository, and then install dependencies:
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+```sh
+yarn install
+```
+
+To start working on the project:
+
+```sh 
+yarn run slidev
+```
+
+## License
+
+This presentation is under CC-BY-SA license (see LICENSE).
