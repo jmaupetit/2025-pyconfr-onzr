@@ -379,7 +379,7 @@ layout: center
 layout: statement
 ---
 
-## Don't forget 
+## Don't forget that 
 
 # <v-click>coding</v-click> 
 # <v-click>experimenting</v-click> 
@@ -391,7 +391,7 @@ layout: statement
 layout: center
 ---
 
-💜 Thank you 💜
+## 💜 Thank you 💜
 
 ---
 
