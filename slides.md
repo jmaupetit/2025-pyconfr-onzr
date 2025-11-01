@@ -43,10 +43,10 @@ image: /images/me.jpg
 - UNIX / CLI lover
 
 ---
-layout: center
+layout: section
 ---
 
-## Once upon a time…
+# Once upon a time…
 
 ---
 layout: two-cols-header
@@ -132,10 +132,10 @@ I know a bit of Python.
 It's time to experiment.
 
 ---
-layout: center 
+layout: section
 ---
 
-# How do we play Deezer music with Python?
+# How do we handle Deezer music with Python?
 
 ---
 
@@ -168,7 +168,7 @@ with self.session.get(url, stream=True) as r:
 ```
 
 ---
-layout: center 
+layout: section
 ---
 
 # How do we play sound with Python?
@@ -226,6 +226,12 @@ But.
 ❌ We don't want to download/store files and then play them, 
 
 ✅ We want to play streams on-the-fly.
+
+---
+layout: section
+---
+
+## First implementation
 
 ---
 
@@ -335,6 +341,12 @@ class Track:
 ```
 
 ---
+layout: section
+---
+
+## Current implementation
+
+---
 
 # FastAPI HTTP server 
 
@@ -388,13 +400,27 @@ layout: statement
 ## is fun.
 
 ---
-layout: center
+layout: two-cols
 ---
 
-## 💜 Thank you 💜
+## Thank you 💜
 
----
 
-# Credits
+👉 https://julien.maupetit.me
+
+<br/>
+<br/>
+<br/>
+
+
+### Credits
 
 - GIFs from "The Office" comes from their [Giphy channel](https://giphy.com/theoffice)
+
+::right::
+
+![](/images/onzr-project-qr.png)
+
+<br/>
+
+https://jmaupetit.github.io/onzr/
