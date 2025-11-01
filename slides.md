@@ -387,3 +387,14 @@ layout: statement
 
 ## is fun.
 
+---
+layout: center
+---
+
+💜 Thank you 💜
+
+---
+
+# Credits
+
+- GIFs from "The Office" comes from their [Giphy channel](https://giphy.com/theoffice)
